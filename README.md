@@ -14,7 +14,7 @@ This is an introduction to computer programming that supports Scripps College's 
 - session 1 (M 08/30)
 - session 2 (M 09/01)
 
-### 2/ [Variables, Expressions, &are Statements](02_ves)
+### 2/ [Variables, Expressions, & Statements](02_ves)
 - session 1 (M 09/06) NO CLASS: Labor Day
 - session 2 (M 09/08)
 
@@ -23,18 +23,18 @@ This is an introduction to computer programming that supports Scripps College's 
 - session 2 (M 09/15)
 
 ### 4/ [functions](04_functions)
-- session 1 (M 08/30)
-- session 2 (M 09/01)
+- session 1 (M 09/20)
+- session 2 (M 09/22)
 
 ### 5/ [Iteration](05_iteration)
-- session 1 (M 09/30)
-- session 2 (M 09/01)
+- session 1 (M 09/27)
+- session 2 (M 09/29)
 
-### 6/ [strings](06_strings)
+### 6/ [recursion](06_recursion)
 - session 1 (M 10/04)
 - session 2 (M 10/06)
 
-### 7/ [iteration](07_interation)
+### 7/ [strings & files](07_files)
 - session 1 (M 10/11)
 - session 2 (M 10/13)
 
@@ -42,3 +42,38 @@ This is an introduction to computer programming that supports Scripps College's 
 - session 1 (M 10/18)
 - session 2 (M 10/20)
 
+### 9/ [lists](09_lists)
+- session 1 (M 10/25)
+- session 2 (M 10/27)
+
+### 10/ [dictionaries](10_dictionaries)
+- session 1 (M 10/25)
+- session 2 (M 10/27)
+
+### 11/ [tuples](11_tuples)
+- session 1 (M 10/25)
+- session 2 (M 10/27)
+
+### 12/ [csv and json](12_csv+json)
+- session 1 (M 11/01)
+- session 2 (M 11/03)
+
+### 13/ [oop](13_oop)
+- session 1 (M 11/08)
+- session 2 (M 11/10)
+
+### 14/ [apis](14_apis)
+- session 1 (M 11/15)
+- session 2 (M 11/17)
+
+### 15/ [projects](15_projects)
+- session 1 (M 11/22)
+- session 2 (M 11/24)
+
+### 16/ [projects](16_projects)
+- session 1 (M 11/29)
+- session 2 (M 12/01)
+
+### 17/ [projects](17_projects)
+- session 1 (M 12/06)
+- session 2 (M 12/08)

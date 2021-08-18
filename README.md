@@ -11,6 +11,12 @@ This is an introduction to computer programming that supports Scripps College's 
 ## OUTLINE
 
 ### 1/ [intro](01_intro)
+
+[Jupyter](https://github.com/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) | 
+[Colab](https://colab.research.google.com/github/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) | 
+[Nextjournal](https://github.nextjournal.com/scrippscollege/MS_059_F21/tree/01_intro/PY4E_01.ipynb) | 
+[Deepnote](https://deepnote.com/launch?url=https://github.com/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb)
+
 - session 1 (M 08/30)
 - session 2 (M 09/01)
 
@@ -42,27 +48,27 @@ This is an introduction to computer programming that supports Scripps College's 
 - session 1 (M 10/18)
 - session 2 (M 10/20)
 
-### 9/ [lists](09_lists)
+### 9/ [lists](08_lists)
 - session 1 (M 10/25)
 - session 2 (M 10/27)
 
-### 10/ [dictionaries](10_dictionaries)
+### 10/ [dictionaries](09_dictionaries)
 - session 1 (M 10/25)
 - session 2 (M 10/27)
 
-### 11/ [tuples](11_tuples)
+### 11/ [tuples](10_tuples)
 - session 1 (M 10/25)
 - session 2 (M 10/27)
 
-### 12/ [csv and json](12_csv+json)
+### 12/ [csv and json](11_csv+json)
 - session 1 (M 11/01)
 - session 2 (M 11/03)
 
-### 13/ [oop](13_oop)
+### 13/ [oop](12_oop)
 - session 1 (M 11/08)
 - session 2 (M 11/10)
 
-### 14/ [apis](14_apis)
+### 14/ [apis](13_apis)
 - session 1 (M 11/15)
 - session 2 (M 11/17)
 

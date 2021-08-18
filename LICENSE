@@ -1,7 +1,9 @@
 # License Statements
 
-## Notice
-Content used in this class is used under one of the following software licenses.
+This course content is offered under a CC Attribution Non-Commercial Share Alike license. Content in this course can be considered under this license unless otherwise noted.
+
+## Remix notice
+This course is an amalgam of open source and original material. Contents carry the following software licenses.
 
 ---
 
@@ -25,4 +27,13 @@ Copyright Details
 Copyright 2009- Dr. Charles R. Severance.
 This work is licensed under a Creative Commons Attribution-NonCommercial- ShareAlike 3.0 Unported License. This license is available at
 http://creativecommons.org/licenses/by-nc-sa/3.0/
-You can see what the author considers commercial and non-commercial uses of this material as well as license exemptions in the Appendix titled “Copyright Detail”.
+
+---
+
+### UW Interactive Data Lab: Data Visualization Curriculum
+https://github.com/uwdata/visualization-curriculum
+
+Developed at the University of Washington by Jeffrey Heer, Dominik Moritz, Jake VanderPlas, and Brock Craft. Thanks to the UW Interactive Data Lab and Arvind Satyanarayan for their valuable input and feedback! Thanks also to the students of UW CSE512 Spring 2019, the first group to use these notebooks within an integrated course curriculum.
+
+uwdata/visualization-curriculum is licensed under the BSD 3-Clause "New" or "Revised" License
+A permissive license similar to the BSD 2-Clause License, but with a 3rd clause that prohibits others from using the name of the project or its contributors to promote derived products without written consent.

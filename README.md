@@ -7,14 +7,21 @@
 ## DESCRIPTION
 This is an introduction to computer programming that supports Scripps College's interdisciplinary vision. It is for everyone--visual designers, data scientists, and fine artists--who wants to create interactive media and computer graphics. This course links software concepts to principles of visual form, motion, and interaction. Students learn the fundamentals of Python programming (data structures, sequencing, selection and sorting, iteration and recursion, functions, object-oriented code) and use Processing.py to analyze and visualize data, generate drawings and sounds, manipulate images, create interactions for games, use network communication to collect data, and learn how to work with remote data to create environmental simulations. Prior programming experience not required. This course satisfies the pre-requisite for DS2 in Scripps' Data Science minor.
 
+This class uses materials generously provided under Creative Commons licenses. These materials have been remixed for maximum benefit for students who wish to learn how to study critical data relationships using visualizations generated with Python.
+
+Consider this statement from Charles Severance, author of "Python for Everybody" the book that provides both ballast and rudder to these materials.
+
+^ In all cases, permission to reuse and remix this material will be granted as long as there is clear added value or benefit to students or teachers that will accrue as a result of the new work.
+^ The Charles Severance www.dr-chuck.com Ann Arbor, MI, USA September 9, 2013
+
 ---
 ## OUTLINE
 
 ### 1/ [intro](01_intro)
 
-[Jupyter](https://github.com/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) | 
-[Colab](https://colab.research.google.com/github/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) | 
-[Nextjournal](https://github.nextjournal.com/scrippscollege/MS_059_F21/tree/01_intro/PY4E_01.ipynb) | 
+[Jupyter](https://github.com/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) |
+[Colab](https://colab.research.google.com/github/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) |
+[Nextjournal](https://github.nextjournal.com/scrippscollege/MS_059_F21/tree/01_intro/PY4E_01.ipynb) |
 [Deepnote](https://deepnote.com/launch?url=https://github.com/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb)
 
 - session 1 (M 08/30)

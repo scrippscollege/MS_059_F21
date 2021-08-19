@@ -17,6 +17,8 @@ Consider this statement from Charles Severance, author of "Python for Everybody"
 ---
 ## OUTLINE
 
+We cover a new fundamental programming concept each week. Class times is spent investigating concepts and history (M), implementation and practice (W). 
+
 ### 1/ [intro](01_intro)
 
 [Jupyter](https://github.com/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) |

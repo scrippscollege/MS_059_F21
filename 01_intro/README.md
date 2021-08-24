@@ -24,7 +24,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial- ShareA
 
 ### Slides
 
-* [Pythonlearn-01-Intro.pptx](https://www.py4e.com/lectures3/Pythonlearn-01-Intro.pptx)
+* [01.pdf](01.pdf)
 
 ### References
 

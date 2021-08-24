@@ -73,22 +73,39 @@ Each week a home assignment will be given in the form of a Jupyter notebook. The
 
 ## COURSE POLICIES
 
+### Scripps College Grade policy
+
+Academic evaluation at Scripps College is a system of letter grades with grade points assigned according to the following scale:
+
+```
+12.0	11.0	10.0	9.0	8.0	 
+A	A–	B+	B	B–	 
+
+7.0	6.0	5.0	4.0	3.0	0
+C+	C	C–	D+	D	F
+```
+
+The minimum passing grade is a "D" for any course taken at the Claremont Colleges. Letter grades on file with the Registrar at the end of the semester are final unless an error in calculating the grade is discovered. Errors must be corrected within one year of the time the grade was recorded.
+
+### Scripps College Policy on Class Attendance
+
+Students are expected to attend all classes and not to be absent without adequate reason. The regulation of class attendance is ultimately the responsibility of the faculty. It is particularly important that students attend those classes immediately preceding and following vacation periods.
+
+
 ### Late Submissions
 
-Unless otherwise approved, work is to be turned in on time or a penalty of one letter grade will be applied for every class it is late. You must accompany the work to the critique and be present throughout or points will be deducted. Similarly, are expected to prepare the readings and viewings for an assigned date before class meets.
+Unless otherwise approved, work is to be turned in on time or a penalty will be applied for every class it is late. You must accompany the work to the critique and be present throughout or points will be deducted. Students are also expected to prepare the readings and viewings for an assigned date before class meets.
 
 ### Learning Environment
-The range of experience and talent in any class will vary; creativity is not solely based on skill. Learning is a process. Commitment and discipline are integral factors in our activities. Each student brings something to the classroom.
+I hope that this class will serve students from all backgrounds and perspectives, and that students’ learning needs be addressed both in and out of class. The diversity that students bring to this class is a gift that conveys strengths and benefits to all. I intend to present materials that are respectful of student diversity. Your suggestions towards this end are encouraged and appreciated, and I hope that you will tell me how to improve the effectiveness of the course for you personally or for other students and groups.
 
-Critique requires collaboration and care. Passionate engagement and disagreement are part of the intellectual and creative process. Yet this is not a license to disregard another’s feelings. Mutual respect is expected and fostering this balance stimulates our growth as scholars. We will all agree that our classroom environment is one of safety; that our classroom is a place where we can fail, look foolish and take chances without fear.
-
-Additionally, please take time to consider each other’s backgrounds and avoid projecting presumptions on others. Likewise, interpretation of a student’ s gender, race, nationality, ability, economic status or other demographic qualities may not match a given student’ s experience or self-identification. Threatening or abusive behavior will be cause for immediate dismissal from class and notification to the Office of the Dean of Students.
+Note that the history and practice of computer programming is spangled with charged language and has a history of discrimination. I hope that you will see this as an opportunity to challenge this corner of the cultural hegemony.
 
 ### Writing Center
 You are encouraged to seek support at the Writing Center on your home campus to assist with your writing process.
 
 ### Accommodations
-Scripps College values diversity and inclusion; we are committed to a climate of mutual respect and full participation. As such, our goal is to create learning environments that are equitable, inclusive and welcoming. If you anticipate or experience any barriers to learning related to a disability or condition, please meet with me or reach out to the Office of Academic Resources and Services at ars@scrippscollege.edu. ARS will work with you to discuss your experiences and a range of options to ensure your full participation in this course and others.
+Scripps College values diversity and inclusion; we are committed to a climate of mutual respect and full participation. As such, our goal is to create learning environments that are equitable, inclusive and welcoming. If you anticipate or experience any barriers to learning related to a disability or condition, please meet with me or reach out to the Office of Academic Resources and Services at [ars@scrippscollege.edu](mailto:ars@scrippscollege.edu). ARS will work with you to discuss your experiences and a range of options to ensure your full participation in this course and others.
 
 Please note that a student’s home campus is responsible for establishing and providing accommodations. If you are not a Scripps student, you must contact your home institution to establish accommodations. Below is a list of coordinators on the other campuses:
 
@@ -99,5 +116,5 @@ Please note that a student’s home campus is responsible for establishing and p
 · Claremont Graduate Institute: Madeline Kiuttu, [madeleine.kiuttu@cgu.edu](mailto:madeleine.kiuttu@cgu.edu)
 · Keck Graduate Institute: Andrea Mozqueda, [andrea_mozqueda@kgi.edu](mailto:andrea_mozqueda@kgi.edu)
 
-### Academic Cheating and Plagiarism
-Cheating or plagiarism will result in automatic failure of that assignment and possible failure in the course. All violations and suspected violations in any form will be punished to the full extent allowed by the Colleges. This applies to all work done in this course including the essay and the projects. Direct appropriation within your created artwork must be useful, meaningful, and discussed and approved by the instructor. To avoid plagiarism, make sure you properly credit authors’ ideas with appropriate citations. Please see me if you have any questions regarding the customary acknowledgement of sources.
+### Scripps College Policy on Dishonesty
+Cheating and/or plagiarism seriously violate the principles of academic integrity that Scripps College expects its students to uphold. Academic dishonesty is not tolerated at Scripps and may result in suspension or expulsion from the College. (See the [current Guide to Student Life](http://inside.scrippscollege.edu/studentaffairs/wp-content/uploads/sites/26/files/2018-19-GTSL.08.19.pdf).)

@@ -1,13 +1,5 @@
 # Python and Viz (Scripps College F2021) 01
 
-*Python for Everybody: Exploring Data Using Python 3 Dr. Charles R. Severance*
-
-ported to Jupyter Notebooks by Douglas Goodwin, 2021.
-
-Content Copyright 2009- Dr. Charles R. Severance with edits and additions by Douglas Goodwin.
-
-This work is licensed under a Creative Commons Attribution-NonCommercial- ShareAlike 3.0 Unported License. This license is available at <https://creativecommons.org/licenses/by-nc-sa/3.0/>
-
 ## Chapter 1: What is computer programming? Why program? How can you make pictures with data?
 
 [Jupyter](https://github.com/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) | [Colab](https://colab.research.google.com/github/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) | [Nextjournal](https://github.nextjournal.com/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb) | [Deepnote](https://deepnote.com/launch?url=https://github.com/scrippscollege/MS_059_F21/blob/main/01_intro/PY4E_01.ipynb)

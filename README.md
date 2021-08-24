@@ -1,8 +1,10 @@
-# MS_059_F21
-##Python and Viz
+# MS_059_F21 | Python and Viz
 ## Professor Douglas Goodwin
 ## MW 2:55-4:10PM
 ## SC Campus, Steele Hall, 229
+
+## [Syllabus](https://github.com/scrippscollege/MS_059_F21/) | [Discord](https://discord.gg/jaj7xcBN)
+
 
 ## DESCRIPTION
 This is an introduction to computer programming that supports Scripps College's interdisciplinary vision. It is for everyone--visual designers, data scientists, and fine artists--who wants to create interactive media and computer graphics. This course links software concepts to principles of visual form, motion, and interaction. Students learn the fundamentals of Python programming (data structures, sequencing, selection and sorting, iteration and recursion, functions, object-oriented code) and use Processing.py to analyze and visualize data, generate drawings and sounds, manipulate images, create interactions for games, use network communication to collect data, and learn how to work with remote data to create environmental simulations. Prior programming experience not required. This course satisfies the pre-requisite for DS2 in Scripps' Data Science minor.

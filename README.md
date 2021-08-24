@@ -24,7 +24,7 @@ Each week a home assignment will be given in the form of a Jupyter notebook. The
 
 | **W**  | **Date**     | **theme**                            | **Slides**                                                   | **Reading**                                                  | **videos**                                                   | **Assignment**                                               | **Quiz**                                                     |
 | ------ | ------------ | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **1**  | 08/30, 09/01 | intro                                | [Pythonlearn–01-Intro.pptx](https://www.py4e.com/lectures3/Pythonlearn-01-Intro.pptx) | [Chapter 1: Introduction](https://www.py4e.com/html3/01-intro) | [Why Program - Part 1](https://youtu.be/fvhNadKjE8g) [Why Program - Part 2](https://youtu.be/VQZTZsXk8sA) [Why Program - Part 3](https://youtu.be/LLzFNlCjTSo) [Why Program - Part 4](https://youtu.be/gsry2SYOFCw) [Writing ‘hello world’ in the Autograder](https://www.py4e.com/lessons/intro#) | [Autograder: Write Hello World](https://www.py4e.com/lessons_launch/pythonauto_01_hello) | [Quiz: Why program?](https://www.py4e.com/lessons_launch/py4e_01_in_quiz) |
+| **1**  | 08/30, 09/01 | intro                                | [01_intro/01.pdf](01_intro/01.pdf)                           | [Chapter 1: Introduction](https://www.py4e.com/html3/01-intro) | [Why Program - Part 1](https://youtu.be/fvhNadKjE8g) [Why Program - Part 2](https://youtu.be/VQZTZsXk8sA) [Why Program - Part 3](https://youtu.be/LLzFNlCjTSo) [Why Program - Part 4](https://youtu.be/gsry2SYOFCw) [Writing ‘hello world’ in the Autograder](https://www.py4e.com/lessons/intro#) | [Autograder: Write Hello World](https://www.py4e.com/lessons_launch/pythonauto_01_hello) \| git | [Quiz: Why program?](https://www.py4e.com/lessons_launch/py4e_01_in_quiz) |
 | **2**  | 09/06, 09/08 | Variables, Expressions, & Statements | [Pythonlearn–02-Expressions.pptx](https://www.py4e.com/lectures3/Pythonlearn-02-Expressions.pptx) | [Chapter 2: Variables](https://www.py4e.com/html3/02-variables) | [Variables, Expressions, and Statements - Part 1](https://youtu.be/7KHdV6FSpo8) [Variables, Expressions, and Statements - Part 2](https://youtu.be/kefrGMAglGs) [Worked Exercise: 2.2](https://youtu.be/_b-nVJrl02M) [Worked Exercise: 2.3](https://youtu.be/DVmspDooG2c) | [Autograder: Exercise 2.3](https://www.py4e.com/lessons_launch/pythonauto_02_03) | [Quiz: Variables, Expressions, and Statements](https://www.py4e.com/lessons_launch/py4e_02_ex_quiz) |
 | **3**  | 09/13, 09/15 | Conditional execution                | [Pythonlearn–03-Conditional.pptx](https://www.py4e.com/lectures3/Pythonlearn-03-Conditional.pptx) | [Chapter 3: Conditionals](https://www.py4e.com/html3/03-conditional) | [Conditional Execution - Part 1](https://youtu.be/2aA3VBdcl6A) [Conditional Execution - Part 2](https://youtu.be/OczkNrHPBps) [Worked Exercise 3.1](https://youtu.be/oUMQbZ4SBuM) [Worked Exercise 3.2](https://youtu.be/-iUA4cCKRlM) | [Autograder: Exercise 3.1](https://www.py4e.com/lessons_launch/pythonauto_03_01) [Autograder: Exercise 3.3](https://www.py4e.com/lessons_launch/pythonauto_03_03) | [Quiz: Conditional Execution](https://www.py4e.com/lessons_launch/py4e_03_if_quiz) |
 | **4**  | 09/20, 09/22 | functions                            | [Pythonlearn–04-Functions.pptx](https://www.py4e.com/lectures3/Pythonlearn-04-Functions.pptx) | [Chapter 4: Functions](https://www.py4e.com/html3/04-functions) | [Functions - Part 1](https://youtu.be/5Kzw-0-DQAk) [Functions - Part 2](https://youtu.be/AJVNYRqn8kM) [Worked Exercise 4.6](https://www.py4e.com/lessons/functions#) | [Autograder: Exercise 4.6](https://www.py4e.com/lessons_launch/pythonauto_04_06) | [Quiz: Functions](https://www.py4e.com/lessons_launch/py4e_04_def_quiz) |
@@ -67,4 +67,37 @@ Each week a home assignment will be given in the form of a Jupyter notebook. The
 
 ## 15/ [projects](15_projects)
 - session 1 (M 12/06)
-- session 2 (M 12/08)
+- session 2 (M 12/08
+
+
+
+## COURSE POLICIES
+
+### Late Submissions
+
+Unless otherwise approved, work is to be turned in on time or a penalty of one letter grade will be applied for every class it is late. You must accompany the work to the critique and be present throughout or points will be deducted. Similarly, are expected to prepare the readings and viewings for an assigned date before class meets.
+
+### Learning Environment
+The range of experience and talent in any class will vary; creativity is not solely based on skill. Learning is a process. Commitment and discipline are integral factors in our activities. Each student brings something to the classroom.
+
+Critique requires collaboration and care. Passionate engagement and disagreement are part of the intellectual and creative process. Yet this is not a license to disregard another’s feelings. Mutual respect is expected and fostering this balance stimulates our growth as scholars. We will all agree that our classroom environment is one of safety; that our classroom is a place where we can fail, look foolish and take chances without fear.
+
+Additionally, please take time to consider each other’s backgrounds and avoid projecting presumptions on others. Likewise, interpretation of a student’ s gender, race, nationality, ability, economic status or other demographic qualities may not match a given student’ s experience or self-identification. Threatening or abusive behavior will be cause for immediate dismissal from class and notification to the Office of the Dean of Students.
+
+### Writing Center
+You are encouraged to seek support at the Writing Center on your home campus to assist with your writing process.
+
+### Accommodations
+Scripps College values diversity and inclusion; we are committed to a climate of mutual respect and full participation. As such, our goal is to create learning environments that are equitable, inclusive and welcoming. If you anticipate or experience any barriers to learning related to a disability or condition, please meet with me or reach out to the Office of Academic Resources and Services at ars@scrippscollege.edu. ARS will work with you to discuss your experiences and a range of options to ensure your full participation in this course and others.
+
+Please note that a student’s home campus is responsible for establishing and providing accommodations. If you are not a Scripps student, you must contact your home institution to establish accommodations. Below is a list of coordinators on the other campuses:
+
+· CMC: Kari Rood, [kari.rood@claremontmckenna.edu](mailto:kari.rood@claremontmckenna.edu)
+· HMC: Brandon Ice, [bice@g.hmc.edu](mailto:bice@g.hmc.edu)
+· Pitzer: Gabriella Tempestoso, [gabriella_tempestoso@pitzer.edu](mailto:gabriella_tempestoso@pitzer.edu)
+· Pomona: Mace Fuataina Mikaele, [mace.mikaele@pomona.edu](mailto:mace.mikaele@pomona.edu)
+· Claremont Graduate Institute: Madeline Kiuttu, [madeleine.kiuttu@cgu.edu](mailto:madeleine.kiuttu@cgu.edu)
+· Keck Graduate Institute: Andrea Mozqueda, [andrea_mozqueda@kgi.edu](mailto:andrea_mozqueda@kgi.edu)
+
+### Academic Cheating and Plagiarism
+Cheating or plagiarism will result in automatic failure of that assignment and possible failure in the course. All violations and suspected violations in any form will be punished to the full extent allowed by the Colleges. This applies to all work done in this course including the essay and the projects. Direct appropriation within your created artwork must be useful, meaningful, and discussed and approved by the instructor. To avoid plagiarism, make sure you properly credit authors’ ideas with appropriate citations. Please see me if you have any questions regarding the customary acknowledgement of sources.

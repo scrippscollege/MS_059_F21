@@ -5,13 +5,13 @@
 
 ## SC Campus, Steele Hall, 229
 
-## [Syllabus](https://github.com/scrippscollege/MS_059_F21/) | [Discord](https://discord.gg/jaj7xcBN)
+## [Syllabus](https://github.com/scrippscollege/MS_059_F21/) | [Discord](https://discord.gg/vHj8uRUB)
 
 <img src="imgs/README/dataimg.jpg" alt="dataimg" style="zoom:50%;" />
 
 ## DESCRIPTION
 
-This is an introduction to computer programming that supports Scripps College's interdisciplinary vision. It is for everyone--visual designers, data scientists, and fine artists--who wants to create interactive media and computer graphics. This course links software concepts to principles of visual form, motion, and interaction. Students learn the fundamentals of Python programming (data structures, sequencing, selection and sorting, iteration and recursion, functions, object-oriented code) and use Processing.py to analyze and visualize data, generate drawings and sounds, manipulate images, create interactions for games, use network communication to collect data, and learn how to work with remote data to create environmental simulations. Prior programming experience not required. 
+This is an introduction to computer programming that supports Scripps College's interdisciplinary vision. It is for everyone--visual designers, data scientists, and fine artists--who wants to create interactive media and computer graphics. This course links software concepts to principles of visual form, motion, and interaction. Students learn the fundamentals of Python programming (data structures, sequencing, selection and sorting, iteration and recursion, functions, object-oriented code) and use Processing.py to analyze and visualize data, generate drawings and sounds, manipulate images, create interactions for games, use network communication to collect data, and learn how to work with remote data to create environmental simulations. Prior programming experience not required.
 
 This course satisfies the pre-requisite for DS2 in Scripps' Data Science minor.
 
@@ -36,11 +36,11 @@ The free web site for Python for Everybody. This site hosts half of the assessme
 
 ### [Free GitHub account](https://github.com), https://github.com
 
-An online development platform. Our syllabus lives on GitHub. Essential. 
+An online development platform. Our syllabus lives on GitHub. Essential.
 
 ### Free [Replit account](https://replit.com), https://replit.com
 
-Replit is a collaborative, in-browser IDE. Authenticate with your GitHub credentials. 
+Replit is a collaborative, in-browser IDE. Authenticate with your GitHub credentials.
 
 
 
@@ -65,22 +65,22 @@ Replit is a collaborative, in-browser IDE. Authenticate with your GitHub credent
 2. Faithfulness to the proposal
 3. Creative engagement
 4. Application of critical thinking
-5. Preparation (research, accumulation of needed materials, time management) 
+5. Preparation (research, accumulation of needed materials, time management)
 6. Success of the finished piece
 
 ## Course and Institutional Policies
 
 **Mask Policy**
 
-**Attendance Policy: ** You may miss up to four classes and still pass this class. Note that 60 percent of the students' grade is given for work on in-class activities, and that these cannot be repeated except in extraordinary circumstances. 
+**Attendance Policy: ** You may miss up to four classes and still pass this class. Note that 60 percent of the students' grade is given for work on in-class activities, and that these cannot be repeated except in extraordinary circumstances.
 
-** You are expected to be attentive, ask questions, work alone and with a partner to complete your work. 
+** You are expected to be attentive, ask questions, work alone and with a partner to complete your work.
 
-**Late Assignment and Missed Exam Policy: 
-** Labs and in-class activities will not be repeated except in extraordinary circumstances. 
+**Late Assignment and Missed Exam Policy:
+** Labs and in-class activities will not be repeated except in extraordinary circumstances.
 
 **Academic Integrity:**
- Students are expected to abide by the Scripps College academic integrity code. You must submit work that is your own and which is original work for this class. Also, all sources must be documented. Omission of sources is considered plagiarism, even if it is an oversight and/or unintentional. All plagiarism will be reported to the department and Dean’s office for further action. For this course, collaboration is allowed in on lab activities and assignments IFF all contributions are documented. 
+ Students are expected to abide by the Scripps College academic integrity code. You must submit work that is your own and which is original work for this class. Also, all sources must be documented. Omission of sources is considered plagiarism, even if it is an oversight and/or unintentional. All plagiarism will be reported to the department and Dean’s office for further action. For this course, collaboration is allowed in on lab activities and assignments IFF all contributions are documented.
 
 Permissible cooperation should never involve one student having possession of a copy of all or part of work done by someone else, in any form (e.g. email, Word doc, Box file, Google sheet, or a hard copy). Also, assignments that have been previously submitted in another course may not be submitted for this course, and I discourage you from finding solutions on Stack Overflow or other online forums to paste into your notebooks.
 
@@ -97,23 +97,23 @@ Pitzer- Gabriella Tempestoso, gabriella_tempestoso@pitzer.edu
 
 Pomona - Jan Collins-Eaglin, Jan.Collins-Eaglin@pomona.edu
 
- 
+
 
 **Inclusivity Statement:**
-This class is an example of Scripps College’s commitment to changing the norms in Computer Science. Creating this initiative at a liberal arts women's college is both a bold step towards correcting gender imbalance in this field. 
+This class is an example of Scripps College’s commitment to changing the norms in Computer Science. Creating this initiative at a liberal arts women's college is both a bold step towards correcting gender imbalance in this field.
 
 Our community represents a wide variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that respects diversity.   
 
 
 
 **Institutional Policies:**
- Students are responsible for reviewing Scripps College’s policies on incomplete grades, sexual misconduct, adverse weather, as well as student evaluation of instruction, and days of special concern/religious holiday. 
+ Students are responsible for reviewing Scripps College’s policies on incomplete grades, sexual misconduct, adverse weather, as well as student evaluation of instruction, and days of special concern/religious holiday.
 
 
 
 ## ASSIGNMENTS
 
-We start with the basics and add visualizations exercises to take advantage of your new skills. By the end of the class you will be able to access remote data and make graphs and other visualizations of the data either to persuade viewers to action or to consider the aesthetics of information. 
+We start with the basics and add visualizations exercises to take advantage of your new skills. By the end of the class you will be able to access remote data and make graphs and other visualizations of the data either to persuade viewers to action or to consider the aesthetics of information.
 
 ---
 ## OUTLINE

@@ -100,7 +100,7 @@ Pomona - Jan Collins-Eaglin, Jan.Collins-Eaglin@pomona.edu
  
 
 **Inclusivity Statement:**
- This class is an example of Scripps College’s commitment to changing the norms in Computer Science. Creating this initiative at a liberal arts women's college is both a bold step towards correcting gender imbalance in this field. 
+This class is an example of Scripps College’s commitment to changing the norms in Computer Science. Creating this initiative at a liberal arts women's college is both a bold step towards correcting gender imbalance in this field. 
 
 Our community represents a wide variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that respects diversity.   
 

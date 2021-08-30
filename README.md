@@ -11,16 +11,106 @@
 
 ## DESCRIPTION
 
-This is an introduction to computer programming that supports Scripps College's interdisciplinary vision. It is for everyone--visual designers, data scientists, and fine artists--who wants to create interactive media and computer graphics. This course links software concepts to principles of visual form, motion, and interaction. Students learn the fundamentals of Python programming (data structures, sequencing, selection and sorting, iteration and recursion, functions, object-oriented code) and use Processing.py to analyze and visualize data, generate drawings and sounds, manipulate images, create interactions for games, use network communication to collect data, and learn how to work with remote data to create environmental simulations. Prior programming experience not required. This course satisfies the pre-requisite for DS2 in Scripps' Data Science minor.
+This is an introduction to computer programming that supports Scripps College's interdisciplinary vision. It is for everyone--visual designers, data scientists, and fine artists--who wants to create interactive media and computer graphics. This course links software concepts to principles of visual form, motion, and interaction. Students learn the fundamentals of Python programming (data structures, sequencing, selection and sorting, iteration and recursion, functions, object-oriented code) and use Processing.py to analyze and visualize data, generate drawings and sounds, manipulate images, create interactions for games, use network communication to collect data, and learn how to work with remote data to create environmental simulations. Prior programming experience not required. 
+
+This course satisfies the pre-requisite for DS2 in Scripps' Data Science minor.
+
+NOTE: The syllabus will evolve as we move through the semester. This will be tracked using Git and managed in the same fashion as a professional software project.
 
 This class uses materials generously provided under Creative Commons licenses. These materials have been remixed for maximum benefit for students who wish to learn how to study critical data relationships using visualizations generated with Python.
 
 Consider this statement from Charles Severance, author of "Python for Everybody" the book that provides both ballast and rudder to these materials.
 
 ^ In all cases, permission to reuse and remix this material will be granted as long as there is clear added value or benefit to students or teachers that will accrue as a result of the new work.
-^ The Charles Severance www.dr-chuck.com Ann Arbor, MI, USA September 9, 2013
+^ The Charles Severance www.dr-chuck.com Ann Arbor, MI, USA September 9, 2011
 
----
+## Required Instructional Materials
+
+### **Python for Everybody**, Charles R. Severance
+
+Book, website, creator of Sakai, Open Source hero. His book will supplies our foundation for learning Python 3. You don't need the book because *it is your class.*
+
+### [P4E.com](https://www.py4e.com/login) account
+
+The free web site for Python for Everybody. This site hosts half of the assessments for the class.
+
+### [Free GitHub account](https://github.com), https://github.com
+
+An online development platform. Our syllabus lives on GitHub. Essential. 
+
+### Free [Replit account](https://replit.com), https://replit.com
+
+Replit is a collaborative, in-browser IDE. Authenticate with your GitHub credentials. 
+
+
+
+## Recommended Material
+### *Processing: A Programming Handbook for Visual Designers*, Ben Fry and Casey Reas
+
+### *The Information: A History, a Theory, a Flood*, James Gleick
+
+### *The Functional Art: An Introduction to Information Graphics and Visualization* Alberto Cairo
+
+## Assessment
+
+### 40% P4E
+
+### 40% Final project (proposal and completion)
+
+### 20% Attendance + Participation
+
+### Final Project Grading is based on the following factors:
+
+1. Perseverance
+2. Faithfulness to the proposal
+3. Creative engagement
+4. Application of critical thinking
+5. Preparation (research, accumulation of needed materials, time management) 
+6. Success of the finished piece
+
+## Course and Institutional Policies
+
+**Mask Policy**
+
+**Attendance Policy: ** You may miss up to four classes and still pass this class. Note that 60 percent of the students' grade is given for work on in-class activities, and that these cannot be repeated except in extraordinary circumstances. 
+
+** You are expected to be attentive, ask questions, work alone and with a partner to complete your work. 
+
+**Late Assignment and Missed Exam Policy: 
+** Labs and in-class activities will not be repeated except in extraordinary circumstances. 
+
+**Academic Integrity:**
+ Students are expected to abide by the Scripps College academic integrity code. You must submit work that is your own and which is original work for this class. Also, all sources must be documented. Omission of sources is considered plagiarism, even if it is an oversight and/or unintentional. All plagiarism will be reported to the department and Dean’s office for further action. For this course, collaboration is allowed in on lab activities and assignments IFF all contributions are documented. 
+
+Permissible cooperation should never involve one student having possession of a copy of all or part of work done by someone else, in any form (e.g. email, Word doc, Box file, Google sheet, or a hard copy). Also, assignments that have been previously submitted in another course may not be submitted for this course, and I discourage you from finding solutions on Stack Overflow or other online forums to paste into your notebooks.
+
+**Accommodations for Students with Disabilities:**
+ Scripps students seeking to register to receive academic accommodations must contact Academic Resources and Services (ARS) at ars@scrippscollege.edu to formalize accommodations. Students will be required to submit documentation and meet with a staff member before being approved for accommodations. Once ARS has authorized academic accommodations, a formal notification will be sent out.
+
+A student’s home campus is responsible for establishing and providing accommodations. If you are not a Scripps student, you must contact your home institution to establish accommodations. Below is a list of coordinators on the other campuses:
+
+CMC - Julia Easley, julia.easley@claremontmckenna.edu
+
+Harvey Mudd – Deborah Kahn, dkahn@hmc.edu
+
+Pitzer- Gabriella Tempestoso, gabriella_tempestoso@pitzer.edu
+
+Pomona - Jan Collins-Eaglin, Jan.Collins-Eaglin@pomona.edu
+
+ 
+
+**Inclusivity Statement:**
+ This class is an example of Scripps College’s commitment to changing the norms in Computer Science. Creating this initiative at a liberal arts women's college is both a bold step towards correcting gender imbalance in this field. 
+
+Our community represents a wide variety of backgrounds and perspectives. We are committed to providing an atmosphere for learning that respects diversity.   
+
+
+
+**Institutional Policies:**
+ Students are responsible for reviewing Scripps College’s policies on incomplete grades, sexual misconduct, adverse weather, as well as student evaluation of instruction, and days of special concern/religious holiday. 
+
+
+
 ## ASSIGNMENTS
 
 We start with the basics and add visualizations exercises to take advantage of your new skills. By the end of the class you will be able to access remote data and make graphs and other visualizations of the data either to persuade viewers to action or to consider the aesthetics of information. 

@@ -163,7 +163,7 @@ We start with the basics and add visualizations exercises to take advantage of y
 | **14** | 11/29,  12/01 | Project  work                         |                                                              |
 | **15** | 12/06,  12/08 | Show  projects                        |                                                              |
 
- 
+
 
 ## COURSE POLICIES
 
